@@ -8,7 +8,7 @@
         height:750px;
         padding-top:30px ;
         padding-right: 300px;
-         background-color: #f0fff0;
+         background-color: rgb(223, 246, 201);
     }
     .logo{
         position: absolute;
@@ -72,6 +72,7 @@
         
     }
     #second .row{
+        
         padding-top: 100px;
         padding-right: 135px;
         padding-left: 100px;
