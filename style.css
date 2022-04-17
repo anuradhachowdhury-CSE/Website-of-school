@@ -8,7 +8,7 @@
         height:750px;
         padding-top:30px ;
         padding-right: 300px;
-         background-color: rgb(223, 246, 201);
+         background-image:linear-gradient(yellow,cyan);
     }
     .logo{
         position: absolute;
@@ -58,7 +58,7 @@
     
     
     #second{
-        height:300px;
+        height:400px;
         width:100%;
         background-color: white;
     }
@@ -80,7 +80,7 @@
     
     }
     #second .row .in:hover{
-        background-color: whitesmoke;
+        background-color: rgb(167, 244, 244);
         box-shadow: 10px 10px 40px lightgray;
     }
     #second .row .One p{
@@ -90,6 +90,7 @@
     
     
     }
+    
     
     .cards-deck{
         margin-top: 100px;
